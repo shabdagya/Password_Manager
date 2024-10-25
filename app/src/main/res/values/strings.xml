@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PasswordManager</string>
+    <string name="update_password">Update Password</string>
+    <string name="add_password">Add Password</string>
+    <string name="delete_wish">Delete Password</string>
+
+</resources>
